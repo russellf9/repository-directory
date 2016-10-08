@@ -9,9 +9,14 @@ A Repo which provides a list of all the russellf9 Github Repos
 
 
 ### Finished Projects
+* [magic-squares](https://github.com/russellf9/magic-squares)
 * [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
 
 ### Lists
 
 * [learning-angular](https://github.com/russellf9/learning-angular) - A list of resources for learning Angular JS
+
+### Code Challenges
+
+* [food-delivery](https://github.com/russellf9/food-delivery)
 
