@@ -13,6 +13,5 @@ A Repo which provides a list of all the russellf9 Git Hub repos
 
 ### Lists
 
-* [learning-angular](https://github.com/russellf9/learning-angular)
-A list of resources for learning Angular JS
+* [learning-angular](https://github.com/russellf9/learning-angular) - A list of resources for learning Angular JS
 
