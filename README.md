@@ -1,4 +1,4 @@
-# repository-directory
+# Repository Directory
 A Repo which provides a list of all the russellf9 Github Repos
 
 ## Links
