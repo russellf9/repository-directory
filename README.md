@@ -1,5 +1,5 @@
 # repository-directory
-A Repo which provides a list of all the russellf9 Git Hub repos
+A Repo which provides a list of all the russellf9 Github Repos
 
 ## Links
 
