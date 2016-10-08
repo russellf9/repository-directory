@@ -9,5 +9,10 @@ A Repo which provides a list of all the russellf9 Git Hub repos
 
 
 ### Finished Projects
-* [https://github.com/russellf9/f9-angular-scrabble](https://github.com/russellf9/ç)
+* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
+
+### Lists
+
+* [learning-angular](https://github.com/russellf9/learning-angular)
+A list of resources for learning Angular JS
 
