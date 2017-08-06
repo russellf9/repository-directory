@@ -13,7 +13,7 @@ A Repo which provides a list of all the russellf9 Github Repos
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
 * [magic-squares-mobile](https://github.com/russellf9/magic-squares-mobile) - A mobile version of the Magic Squares Game
-* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
+* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble) - Test your Scrabble skill by creating the highest scrore! - See [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
 
 ### Angular 
 * [angular2-simple-api](https://github.com/russellf9/angular2-simple-api) - Using System JS - And using the Rijksmuseum musuem API
