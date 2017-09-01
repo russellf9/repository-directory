@@ -51,5 +51,5 @@ Also, where applicable I've added links to working versions of the project.
 * [wallet-app](https://github.com/russellf9/wallet-app) - See working version - [my-wallet](http://factornine.co.uk/my-wallet/#/)
 ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
 
-![screen shot](https://user-images.githubusercontent.com/4911915/29967585-3f9f1c0a-8f0f-11e7-8822-64b92e1d6fa5.png?v=4&s=100 )
+![screen shot](https://user-images.githubusercontent.com/4911915/29967585-3f9f1c0a-8f0f-11e7-8822-64b92e1d6fa5.png){:width="400px"}
 
