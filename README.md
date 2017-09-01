@@ -17,14 +17,12 @@ Also, where applicable I've added links to working versions of the project.
 * [magic-squares-mobile](https://github.com/russellf9/magic-squares-mobile) - A mobile version of the Magic Squares Game
 * [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble) - Test your Scrabble skill by creating the highest scrore! - See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
 
-### Angular 
+### AngularJS
 * [angular2-simple-api](https://github.com/russellf9/angular2-simple-api) - Using System JS - And using the Rijksmuseum musuem API
 * [angular2-convert](https://github.com/russellf9/angular2-convert) -  An exercise in converting an ng-1project to ng-2
 * [angular2-rxjs-chat](https://github.com/russellf9/angular2-rxjs-chat) - Angular App Using Reactive Programming
 * [f9-angular-2-form-app](https://github.com/russellf9/f9-angular-2-form-app) - [ng-book 2](https://github.com/ng-book): Inventory App
 * [angular2-reddit](https://github.com/russellf9/angular2-reddit) ng-book 2: Simple Reddit-like App
-
-### Angular JS
 * [finance-app](https://github.com/russellf9/finance-app) - A proof of concept using Angular Grid
 
 ### SASS/CSS
