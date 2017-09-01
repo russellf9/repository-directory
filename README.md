@@ -15,7 +15,7 @@ Also, where applicable I've added links to working versions of the project.
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
 * [magic-squares-mobile](https://github.com/russellf9/magic-squares-mobile) - A mobile version of the Magic Squares Game
-<img src="https://raw.githubusercontent.com/russellf9/magic-squares-mobile/master/design/screenshots/magicSquaresiPad_150227.jpgraw=true" alt="Screenshot" title="Magic Squares Mockup" width="400">
+<img src="https://raw.githubusercontent.com/russellf9/magic-squares-mobile/master/design/screenshots/magicSquaresiPad_150227.jpg" alt="Screenshot" title="Magic Squares Mockup" width="400">
 
 
 
