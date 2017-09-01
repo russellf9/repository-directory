@@ -1,6 +1,8 @@
 # Repository Directory
 A Repo which provides a list of all the russellf9 Github Repos
 
+Also, where applicable I've added links to working versions of the project.
+
 ## Links
 
 ### Factornine
@@ -13,7 +15,7 @@ A Repo which provides a list of all the russellf9 Github Repos
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
 * [magic-squares-mobile](https://github.com/russellf9/magic-squares-mobile) - A mobile version of the Magic Squares Game
-* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble) - Test your Scrabble skill by creating the highest scrore! - See [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
+* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble) - Test your Scrabble skill by creating the highest scrore! - See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
 
 ### Angular 
 * [angular2-simple-api](https://github.com/russellf9/angular2-simple-api) - Using System JS - And using the Rijksmuseum musuem API
@@ -46,4 +48,6 @@ A Repo which provides a list of all the russellf9 Github Repos
 * [food-delivery](https://github.com/russellf9/food-delivery)
 * [Daresay](https://github.com/russellf9/daresay-test) - A repository for the Daresay test
 * [Candy Space](https://github.com/russellf9/candy-space)
+* [wallet-app](https://github.com/russellf9/wallet-app) - See working version - [my-wallet](http://factornine.co.uk/my-wallet/#/)
+![screen shot](https://user-images.githubusercontent.com/4911915/29967585-3f9f1c0a-8f0f-11e7-8822-64b92e1d6fa5.png)
 
