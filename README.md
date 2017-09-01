@@ -38,7 +38,7 @@ Also, where applicable I've added links to working versions of the project.
 ### Study
 * [webstorm-presentation](https://github.com/russellf9/webstorm-presentation) - Learning Webstorm and list of shortcuts etc
 * [Underscrore](https://github.com/russellf9/underscore-dev) App based on Alex Pop's book ["Learning Underscore.js"](http://bit.ly/1JwvBOO).
-* [Typescript](https://github.com/russellf9/typescript-test) - Simple app from [tutorial]https://www.typescriptlang.org/docs/tutorial.html)
+* [Typescript](https://github.com/russellf9/typescript-test) - Simple app from [tutorial](https://www.typescriptlang.org/docs/tutorial.html)
 * [learning-node](https://github.com/russellf9/learning-node) - Learning-node - A repository for files relating to `Shelley Powers. Learning Node.`
 
 ### Genral Interest
