@@ -52,7 +52,7 @@ Also, where applicable I've added links to working versions of the project.
 * [code-challenges](https://github.com/russellf9/code-challenges) - A repository which provides information and links to various Code Challenges
 * [food-delivery](https://github.com/russellf9/food-delivery)
 * [Daresay](https://github.com/russellf9/daresay-test) - A repository for the Daresay HTML/CSS test
-* [Candy Space](https://github.com/russellf9/candy-space)
-* [wallet-app](https://github.com/russellf9/wallet-app) - See working version - [my-wallet](http://factornine.co.uk/my-wallet/#/)
+* [Candy Space](https://github.com/russellf9/candy-space) - AngularJS
+* [wallet-app](https://github.com/russellf9/wallet-app) - See working version - [my-wallet](http://factornine.co.uk/my-wallet/#/) - AngularJS
 <img src="https://user-images.githubusercontent.com/4911915/29967585-3f9f1c0a-8f0f-11e7-8822-64b92e1d6fa5.png" alt="image" width="400">
 
