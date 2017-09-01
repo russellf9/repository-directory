@@ -19,7 +19,10 @@ Also, where applicable I've added links to working versions of the project.
 
 
 
-* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble) - Test your Scrabble skill by creating the highest scrore! - See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
+* [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
+- Test your Scrabble skill by creating the highest scrore! 
+- See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
+<img src="https://user-images.githubusercontent.com/4911915/29003486-865f9c92-7aaf-11e7-990b-e8f12b1eded4.png" alt="f9-scrabble-1" width="400">
 
 ### AngularJS
 * [angular2-simple-api](https://github.com/russellf9/angular2-simple-api) - Using System JS - And using the Rijksmuseum musuem API
