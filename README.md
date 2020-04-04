@@ -6,7 +6,11 @@ Also, where applicable I've added links to working versions of the project where
 ## Links
 
 ### Factornine
+* [factornine-2020](https://github.com/russellf9/factornine-2020)
+My current website created using React with Typescript
+
 * [factornine.co.uk](https://github.com/russellf9/factornine.co.uk)
+Legacy repo for my website. Although I'm using the cv section to update my CV using Pandoc.
 
 ### Current Project
 
