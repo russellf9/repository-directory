@@ -10,9 +10,8 @@ Also, where applicable I've added links to working versions of the project where
 
 ### Current Project
 
-[React Scrabble](https://github.com/russellf9/React-Scrabble) - Just started to adapt the AngularJS Scrabble game to React. This will be an ongoing project as I learn React, Redux and React Native.
+[Person Presenter](https://github.com/russellf9/person-presenter) - I'm working on a small Angular 9 project to diversify my "Skills Portfolio" and ascertain how transferrable my React and AngularJS skills are to the latest Angular.
 
-Currently just has a simple fetch using the wordnik.com API.
 
 ### System
 
@@ -21,10 +20,18 @@ Currently just has a simple fetch using the wordnik.com API.
 
 [Learning React JS](https://github.com/russellf9/learn-react-list) - A list of relevant links and resources for learning React JS
 
+### Projects
+
+[React Scrabble](https://github.com/russellf9/React-Scrabble) - Just started to adapt the AngularJS Scrabble game to React. This will be an ongoing project as I learn React, Redux and React Native.
+
+Currently just has a simple fetch using the wordnik.com API.
+
+
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
 * [magic-squares-mobile](https://github.com/russellf9/magic-squares-mobile) - A mobile version of the Magic Squares Game
 <img src="https://raw.githubusercontent.com/russellf9/magic-squares-mobile/master/design/screenshots/magicSquaresiPad_150227.jpg" alt="Screenshot" title="Magic Squares Mockup" width="400">
+
 * [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
 - Test your Scrabble skill by creating the highest scrore!
 - See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
