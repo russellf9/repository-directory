@@ -37,8 +37,9 @@ Currently just has a simple fetch using the wordnik.com API.
 <img src="https://raw.githubusercontent.com/russellf9/magic-squares-mobile/master/design/screenshots/magicSquaresiPad_150227.jpg" alt="Screenshot" title="Magic Squares Mockup" width="400">
 
 * [f9-angular-scrabble](https://github.com/russellf9/f9-angular-scrabble)
-- Test your Scrabble skill by creating the highest scrore!
-- See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
+
+Test your Scrabble skill by creating the highest score! See working version of the game: [f9-angular-scrabble](http://factornine.co.uk/f9-scrabble)
+
 <img src="https://user-images.githubusercontent.com/4911915/29003486-865f9c92-7aaf-11e7-990b-e8f12b1eded4.png" alt="f9-scrabble-1" width="400">
 
 ### Angular
