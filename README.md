@@ -14,22 +14,21 @@ Legacy repo for my website. Although I'm using the cv section to update my CV us
 
 ### Current Project
 
-[Person Presenter](https://github.com/russellf9/person-presenter) - I'm working on a small Angular 9 project to diversify my "Skills Portfolio" and ascertain how transferrable my React and AngularJS skills are to the latest Angular.
+[React Scrabble](https://github.com/russellf9/React-Scrabble) - I've been updating this React project recenetly which is an adapation of the AngularJS Scrabble game.
 
+Currently just has a simple fetch using the wordnik.com API.
 
 ### System
 
 [dotfiles](https://github.com/russellf9/dotfiles) - My personal OSX installation system.
+
 ### React JS
 
 [Learning React JS](https://github.com/russellf9/learn-react-list) - A list of relevant links and resources for learning React JS
 
 ### Projects
 
-[React Scrabble](https://github.com/russellf9/React-Scrabble) - Just started to adapt the AngularJS Scrabble game to React. This will be an ongoing project as I learn React, Redux and React Native.
-
-Currently just has a simple fetch using the wordnik.com API.
-
+[Person Presenter](https://github.com/russellf9/person-presenter) - I'm working on a small Angular 9 project to diversify my "Skills Portfolio" and ascertain how transferrable my React and AngularJS skills are to the latest Angular.
 
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
