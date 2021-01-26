@@ -18,6 +18,8 @@ Legacy repo for my website. Although I'm using the cv section to update my CV us
 
 Currently just has a simple fetch using the wordnik.com API.
 
+![scrabble-2021-01-21](https://user-images.githubusercontent.com/4911915/105375033-3f7f6100-5c00-11eb-9d38-621af67f3e12.png)
+
 ### System
 
 [dotfiles](https://github.com/russellf9/dotfiles) - My personal OSX installation system.
