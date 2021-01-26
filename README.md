@@ -1,7 +1,7 @@
 # Repository Directory
 A Repo which provides a list of all the most interesting [russellf9](https://github.com/russellf9) Github Repos
 
-Also, where applicable I've added links to working versions of the project where applicable.
+Also, where applicable I've added links to working versions of the project or screenshots where applicable.
 
 ## Links
 
@@ -30,7 +30,7 @@ Currently just has a simple fetch using the wordnik.com API.
 
 ### Projects
 
-[Person Presenter](https://github.com/russellf9/person-presenter) - I'm working on a small Angular 9 project to diversify my "Skills Portfolio" and ascertain how transferrable my React and AngularJS skills are to the latest Angular.
+[Person Presenter](https://github.com/russellf9/person-presenter) - I was working on a small Angular 9 project to diversify my "Skills Portfolio" and ascertain how transferrable my React and AngularJS skills are to the latest Angular.
 
 ### Games
 * [f9-matching-squares](https://github.com/russellf9/f9-matching-squares)
